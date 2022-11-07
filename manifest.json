@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "noobie friendly syscall.sh",
+  "version": "0.0.1",
+  "description": "Makes the top part that shows which register the value maps to sticky",
+
+  "content_scripts": [{
+    "css": ["style.css"],
+    "matches": ["https://*.syscall.sh/"]
+  }]
+
+}
