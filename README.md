@@ -1,11 +1,12 @@
 # what's this
 
-3 line long css extension that makes the top bar at [syscall.sh](https://syscall.sh/) sticky.
+makes the top bar at [syscall.sh](https://syscall.sh/) sticky. usefull when you do not have the calling convention memorized.
 
-## Before:
+# how to use
 
-![](./img/before.gif)
+ - method 1: add user script in `./tampermonkey/stickysyscall.user.js` to tampermonkey
+ - method 2: enable developer mode in chromium-based browser extensions and add the `./extension` folder
 
-## After:
+# screenshot
 
-![](./img/after.gif)
+![looksticky](./img/after.png)
