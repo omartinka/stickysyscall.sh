@@ -5,7 +5,7 @@
 // @description  make syscall.sh topbar sticky
 // @author       You
 // @match        *://*.syscall.sh
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com
+// @icon         https://i.imgur.com/PYpkDba.png
 // @grant        none
 // ==/UserScript==
 

@@ -1,6 +1,6 @@
 # what's this
 
-makes the top bar at [syscall.sh](https://syscall.sh/) sticky. usefull when you do not have the calling convention memorized.
+3 line css that makes the top bar at [syscall.sh](https://syscall.sh/) sticky. usefull when you do not have the calling convention memorized.
 
 # how to use
 
